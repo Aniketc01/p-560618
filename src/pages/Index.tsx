@@ -13,7 +13,7 @@ const Index = () => {
           Early Access Program
         </section>
 
-        <div className="mt-[-50px]">
+        <div>
           <EarlyAccessForm />
         </div>
       </main>
