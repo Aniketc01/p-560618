@@ -1,3 +1,4 @@
+
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -20,7 +21,7 @@ export const EarlyAccessForm = () => {
   };
 
   return (
-    <div className="flex gap-[72px] mt-10 px-[120px] py-0 max-md:flex-col max-md:px-[60px] max-md:py-0 max-sm:px-5 max-sm:py-0">
+    <div className="flex gap-[72px] px-[120px] py-0 max-md:flex-col max-md:px-[60px] max-md:py-0 max-sm:px-5 max-sm:py-0">
       <div className="flex-1">
         <h2 className="text-2xl font-semibold text-[#5C2E2E] mb-5 max-sm:text-xl">
           Program Incentives
