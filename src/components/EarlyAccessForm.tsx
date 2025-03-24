@@ -21,12 +21,12 @@ export const EarlyAccessForm = () => {
   };
 
   return (
-    <div className="flex gap-[72px] px-[120px] py-0 max-md:flex-col max-md:px-[60px] max-md:py-0 max-sm:px-5 max-sm:py-0">
+    <div className="flex gap-[72px] px-[120px] py-0 mb-20 max-md:flex-col max-md:px-[60px] max-md:py-0 max-sm:px-5 max-sm:py-0 max-sm:mb-10">
       <div className="flex-1">
         <h2 className="text-2xl font-semibold text-[#5C2E2E] mb-5 max-sm:text-xl">
           Program Incentives
         </h2>
-        <ul className="text-base text-[#202124] leading-[25px] max-sm:text-sm">
+        <ul className="text-base text-[#202124] leading-[25px] space-y-2 max-sm:text-sm">
           <li>· 3-month free trial – No credit card or commitment</li>
           <li>· 75% discount vs full price</li>
           <li>· Opportunity to shape the features of future development</li>
