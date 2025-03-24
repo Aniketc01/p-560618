@@ -1,3 +1,4 @@
+
 import { Header } from "@/components/Header";
 import { EarlyAccessForm } from "@/components/EarlyAccessForm";
 import { Footer } from "@/components/Footer";
@@ -8,7 +9,7 @@ const Index = () => {
       <Header />
 
       <main>
-        <section className="text-[42px] max-w-[516px] text-white bg-[#5C2E2E] px-[120px] py-[55px] max-sm:text-[32px] max-sm:px-5 max-sm:py-[30px]">
+        <section className="inline-block text-[42px] text-white bg-[#5C2E2E] px-[120px] py-[55px] max-sm:text-[32px] max-sm:px-5 max-sm:py-[30px]">
           Early Access Program
         </section>
 
